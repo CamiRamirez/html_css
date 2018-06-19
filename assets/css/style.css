@@ -1,0 +1,23 @@
+.block {
+    display: block;
+}
+
+.caja{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    margin: 5px;
+    display: inline-block;
+}
+
+#red{
+    background-color: red;
+}
+#blue{
+    background-image: url(../../images/cielo-azul-sol-amarillo.jpg);
+    background-size: 150%;
+}
+#green{
+    background-color: green;
+
+}
